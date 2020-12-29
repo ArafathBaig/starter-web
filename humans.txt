@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Arafath Baig arafath.moghul@gmail.com abba
 
 # THANKS
 
