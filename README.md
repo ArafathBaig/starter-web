@@ -15,7 +15,7 @@ Purpose is to make the world better
 This is deployement brother
 
 ##Contribute
-This is it the last content
+Please fork this repository for contributing.
 
 Adding more dataaaa
 
