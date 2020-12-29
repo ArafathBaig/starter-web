@@ -18,3 +18,7 @@ This is deployement brother
 This is it the last content
 
 Adding more dataaaa
+
+##Copyright
+
+adding copyright notice to readme
